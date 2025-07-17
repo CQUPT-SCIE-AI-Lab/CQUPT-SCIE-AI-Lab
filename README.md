@@ -1,6 +1,6 @@
 ## CQUPT SAIL
 
-School of Communication and Information Engineering Artificial Intelligence Laboratory at Chongqing University of Posts and Telecommunications
+School of Communications and Information Engineering Artificial Intelligence Laboratory at Chongqing University of Posts and Telecommunications
 
 <!--
 **CQUPT-SCIE-AI-Lab/CQUPT-SCIE-AI-Lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
